@@ -8,4 +8,6 @@ for i in [1, 2, 3, 4, 5]:
 while i <10:
     print ('iteration number', i)
     i+=1
-    
+
+for i in [1, 2, 3, 4, 5, 6]:
+    print ('6 passes done')
