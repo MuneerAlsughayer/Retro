@@ -11,3 +11,8 @@ while i <10:
 
 for i in [1, 2, 3, 4, 5, 6]:
     print ('6 passes done')
+
+
+for i in ['ONE TWO']:
+    if i is 'O':
+        print ('O Found')
